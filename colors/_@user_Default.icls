@@ -3,7 +3,7 @@
     <property name="created">2018-09-29T09:54:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-09-29T10:04:29</property>
+    <property name="modified">2019-04-16T14:23:28</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -88,6 +88,27 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ccffcc" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffffcc" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
