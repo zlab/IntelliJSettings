@@ -14,11 +14,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="car_pool@flut.cn" uuid="dfc149bd-2a7b-4cdd-934c-608bf2aece50">
+    <data-source source="LOCAL" name="salon_dev@flut.cn" uuid="dfc149bd-2a7b-4cdd-934c-608bf2aece50">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://flut.cn:3306/car_pool</jdbc-url>
+      <jdbc-url>jdbc:mysql://flut.cn:3306/salon_dev</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
