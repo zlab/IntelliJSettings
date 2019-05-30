@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="icpos_zhanqi@flut.cn" uuid="2a834448-a0be-4617-8cc5-e7b2bf5b4f8b">
+    <data-source source="LOCAL" name="icpos_zhanqi@icpos.cn" uuid="2a834448-a0be-4617-8cc5-e7b2bf5b4f8b">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://flut.cn:3306/icpos_zhanqi</jdbc-url>
+      <jdbc-url>jdbc:mysql://icpos.cn:3306/icpos_zhanqi</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
